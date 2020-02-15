@@ -1,7 +1,7 @@
 [package]
-name = "{{project-name}}"
+name = "two_factor_aocd8"
 version = "0.1.0"
-authors = ["{{authors}}"]
+authors = ["Charith Rathnayake"]
 edition = "2018"
 
 [lib]
